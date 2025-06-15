@@ -1,7 +1,5 @@
 # pc-web-deploy
-PHPHPHPHPHPHPHP
-
-testephpeffw
+PHPHPHPHPHewrwdsfsdfeffw
 ## App in laravel 
 
 ## Como instalar o PHP
